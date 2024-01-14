@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+   
+}
+   
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+.Influence-title{
+    padding-left: 100px;
+    color: #3A3A3A;
+font-size: 1.4rem;
+font-weight: 700;
+}
+header{
+    width: 100%;
+}
+.Nav-bar{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.icon{
+    width: 24px;
+height: 24px;
+gap: 20px;
+
+}
+.about-nav , a{
+    padding-right: 100px;
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    color: #3A3A3A;
+
+}
+.start-journey-section{
+    display: flex;
+    padding-left: 100px ;
+    padding-top: 60px;
+    background-image: url(../images/Circle\ design.svg);
+    background-repeat: no-repeat;
+    background-position:bottom right;
+    
+}
+.header-img{
+    width: 440px;
+height: 414px;
+}
+.section{
+    color: #3A3A3A;
+font-size: 3.2rem;
+font-weight: 700;
+}
+.lorem{
+    color: #3A3A3A;
+font-size: 1rem;
+font-weight: 600;
+margin-top: 15px;
+
+}
+.btn-primary{
+    width: 150px;
+height: 50px;
+border-radius:30px;
+background: #E02C6D;
+color: #FFF;
+font-size: 1rem;
+font-weight: 700;
+border: none;
+margin-top: 15px;
+
+}
